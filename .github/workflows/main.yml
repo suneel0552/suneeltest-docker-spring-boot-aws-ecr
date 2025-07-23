@@ -1,3 +1,4 @@
+## Updated Secrets for Individual Repo
 name: GitHub Action cicd-workflow for SuneelTest Repo to create docker image and upload into AWS ECR
 on:
   push:
